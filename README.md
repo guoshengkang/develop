@@ -15,7 +15,7 @@ cooy   dmnpallete\dmn-embedded.css   into   \client\node_modules\dmn-js\dist\ass
 # execute all checks (lint, test and build)
 npm run all
 
-# build the application to ./dist
+# build the application
 npm run build
 
 # run the modeler
